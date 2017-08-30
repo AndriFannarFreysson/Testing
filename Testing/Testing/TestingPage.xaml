@@ -8,7 +8,7 @@
     >
 	<Label Text="Welcome to Xamarin Forms!" VerticalOptions="Center" HorizontalOptions="Center" />
     <MasterDetailPage.Master>
-        <ContentPage Padding="10" BackgroundColor="Gray" Title="Master" Icon="menu.png">
+        <ContentPage Padding="10" BackgroundColor="Green" Title="Master" Icon="menu.png">
             <ContentPage.Content>
                 <StackLayout Margin="5,30,3,3">
                     <Label Text="Master Page">
